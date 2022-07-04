@@ -3,8 +3,8 @@ import React from 'react'
 const Blog = () => {
   return (
 
-    <div>This is the new blog page</div>
-    
+    <div>This is the new blog home page</div>
+
   )
 }
 
