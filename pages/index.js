@@ -6,7 +6,7 @@ import styles from '../styles/Home.module.css'
 import Dummy from '../components/dummy'
 
 export default function Home() {
-  return (
+  return ( 
     <div className={styles.container}>
 
       {/* <Dummy/> */}
@@ -18,7 +18,7 @@ export default function Home() {
           color: tomato;
         }
         `}
-        
+
       </style>
 
 
