@@ -12,11 +12,13 @@ export default function Home() {
       {/* <Dummy/> */}
 
       <style jsx>
+
         {`
         .mySpan{
           color: tomato;
         }
         `}
+        
       </style>
 
 
