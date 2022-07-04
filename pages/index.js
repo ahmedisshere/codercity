@@ -3,18 +3,20 @@ import Image from 'next/image'
 import Script from 'next/script'
 import Link from 'next/link'
 import styles from '../styles/Home.module.css'
+import Dummy from '../components/dummy'
 
 export default function Home() {
   return (
     <div className={styles.container}>
-      <style jsx>
 
+      {/* <Dummy/> */}
+
+      <style jsx>
         {`
         .mySpan{
           color: tomato;
         }
         `}
-
       </style>
 
 
