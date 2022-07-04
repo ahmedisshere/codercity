@@ -28,7 +28,7 @@ export default function Home() {
         </h1>
 
         <p className={styles.description}>
-          A blog for coders by a coder (o|o) 
+          A blog for coders by a coder   (☞ﾟヮﾟ)☞
         </p>
 
         <div className="blogs">
@@ -37,15 +37,18 @@ export default function Home() {
             <h3>How to learn JavaScript in 2022?</h3>
             <p>JavaScript is a language which is used to design the logic for the web</p>
           </div>
+
           <div className="blogItem">
             <h3>How to learn JavaScript in 2022?</h3>
             <p>JavaScript is a language which is used to design the logic for the web</p>
           </div>
+
           <div className="blogItem">
             <h3>How to learn JavaScript in 2022?</h3>
             <p>JavaScript is a language which is used to design the logic for the web</p>
           </div>
         </div>
+
       </main>
 
       <footer className={styles.footer}>
