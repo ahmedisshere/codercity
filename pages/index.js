@@ -3,20 +3,16 @@ import Image from 'next/image'
 import Script from 'next/script'
 import Link from 'next/link'
 import styles from '../styles/Home.module.css'
-import Dummy from '../components/dummy'
 
 export default function Home() {
   return ( 
     <div className={styles.container}>
 
-      {/* <Dummy/> */}
-
       <style jsx>
 
         {`
-        .mySpan{
-          color: tomato;
-        }
+        
+
         `}
 
       </style>
@@ -28,7 +24,6 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-     {/* <Script src='/sc.js' strategy='lazyOnload'></Script> */}
 
       <nav className={styles.mainnav}>
         <ul>
@@ -62,7 +57,7 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          <span className='mySpan'>CodersTent</span>
+          <span>CodersTent</span>
         </h1>
 
         <p className={styles.description}>
