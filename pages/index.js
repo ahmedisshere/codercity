@@ -45,7 +45,7 @@ export default function Home() {
         </p>
 
         <div className="blogs">
-          <h2> <span className='mySpan'> Popular Blogs </span> </h2>
+          <h2> <span className='mySpan'> Latest Blogs </span> </h2>
           <div className="blogItem">
             <h3>How to learn JavaScript in 2022?</h3>
             <p>JavaScript is a language which is used to design the logic for the web</p>
