@@ -33,7 +33,7 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          <span>CodersTenT</span>
+          <span>CodersTent</span>
         </h1>
 
         <div className={styles.imagewrap}>
