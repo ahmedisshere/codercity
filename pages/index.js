@@ -41,7 +41,7 @@ export default function Home() {
         </div>
 
         <p className={styles.description}>
-          A blog for Coders by a Coder   (☞ﾟヮﾟ)☞
+          A blog for Coders by a Coder  
         </p>
 
         <div className="blogs">
